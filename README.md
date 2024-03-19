@@ -14,7 +14,7 @@ Anime has become a popular form of entertainment worldwide, with a vast array of
 ## Analysis
 
 - EDA to understand the distribution of features, correlations, and trends.
-- Statistical analysis like of analyze User rating trends in the rating dataset.
+- Statistical analysis like analyzing User rating trends in the rating dataset.
 - Visualization techniques such as histograms and scatter plots to illustrate patterns in the data.
 
 - ### Word Cloud
