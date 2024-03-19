@@ -32,6 +32,6 @@ TF-IDF (Term Frequency-Inverse Document Frequency) vectorization is a technique 
 ## Cosine Similarity
 
 Cosine similarity is computed between all pairs of anime based on their TF-IDF representations. <br>
-So a last we measured the cosine of the angle between the two vectors that ranges from -1 to 1, with higher values indicating greater similarity.
+So at last we measured the cosine of the angle between the two vectors that ranges from -1 to 1, with higher values indicating greater similarity.
 
   
