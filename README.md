@@ -14,8 +14,13 @@ Anime has become a popular form of entertainment worldwide, with a vast array of
 ## Analysis
 
 - EDA to understand the distribution of features, correlations, and trends.
+- ![corr](https://github.com/Manvn48/Anime-Data-Analysis/assets/142496783/0cb468d1-de67-440c-b21a-f157bbc570b3)
+
 - Statistical analysis like analyzing User rating trends in the rating dataset.
+- 
+
 - Visualization techniques such as histograms and scatter plots to illustrate patterns in the data.
+- 
 
 - ### Word Cloud
 We used it to Represent the most frequent genre of the anime in the dataset. Thus, as per the popularity we can get the most popular genre among people. 
